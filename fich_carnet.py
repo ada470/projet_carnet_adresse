@@ -124,3 +124,4 @@ while True:
         break
     else:
         print("Choix invalide, veuillez réessayer.") 
+print("essaie de la commande stash")
